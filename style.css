@@ -6,10 +6,11 @@
 }
 
 .hero {
-    height: 50rem;
-    background-color: hsl(47, 88%, 63%);
+    
     justify-content: center;
     align-content: center;
+    height: 100vh;
+    background-color: hsl(47, 88%, 63%);
 }
 
 #hero-container {
