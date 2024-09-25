@@ -47,7 +47,7 @@ img {
 header {
     background-color:hsl(47, 88%, 63%);
     font-size: 16px;
-    font-weight: 800;
+    font-weight: 500;
     border-radius: 10%;
     width: 5rem;
     height: 2rem;
@@ -57,13 +57,14 @@ header {
 
 .publish {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
 
 }
 
 h1 {
     font-weight: 800;
     cursor: pointer;
+    font-size: 25px;
 }
 
 h1:hover{
